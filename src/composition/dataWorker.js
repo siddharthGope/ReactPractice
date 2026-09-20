@@ -1,5 +1,5 @@
 // Web Worker
-// dataWorker.js
+
 self.onmessage = async (e) => {
   const { url, rawText } = e.data;
 

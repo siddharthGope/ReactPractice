@@ -1,11 +1,11 @@
-import UnoptimizedCode from "./practices/UnoptimizedCode"
+import HandleLargeData from "./practices/HandleLargeData.jsx"
 
 function App() {
 
 
   return (
     <>
-    <UnoptimizedCode/>
+    <HandleLargeData/>
     </>
   );
 }
